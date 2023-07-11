@@ -22,7 +22,7 @@ def timer(t):
 
 def result(code):
     if code == 201:
-        print("✅ Success") 
+        print("✅ Success")
     else:
         print("❌ Failed")
 
